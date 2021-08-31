@@ -1,2 +1,8 @@
 dist/
 node_modules/
+/.vs/kendo-ui-for-jquery/config/applicationhost.config
+/.vs/kendo-ui-for-jquery/v16/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/server-operations/package-lock.json

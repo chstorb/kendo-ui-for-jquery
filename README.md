@@ -12,6 +12,21 @@ If you have cloned the repository, open slides/kendo-ui jquery.pptx or check out
 
 ## Running the Demos
 
+### Tools needed
+Tools needed for running the examples in the playground:
+* [Node.js](https://nodejs.org/en/download/current/)
+* [VSCode](https://code.visualstudio.com/)
+* LiveServer
+    ```bash
+    .\kendo-ui-for-jquery>npm install -global live-server
+    ```
+
+    To run live server enter: 
+    ```bash
+    .\kendo-ui-for-jquery>liver-server
+    ```
+    Once you run it, you can see all the files in our folders.
+
 ### playground
 Contains the boilerplate code for the live demos. Get this folder ready in your preferred editor if you want to code along with the presenter. The setup will be explained during the training.
 
@@ -30,7 +45,7 @@ npm install
 ```
 
 #### Running the Demo
-Run the start command and navigate in your browser to `localhost:9000`.
+Run the start command and navigate in your browser to [localhost:9000](http://localhost:9000).
 ```bash
 npm start
 ```
