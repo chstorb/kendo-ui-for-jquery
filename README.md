@@ -27,6 +27,8 @@ Tools needed for running the examples in the playground:
     ```
     Once you run it, you can see all the files in our folders.
 
+    http://localhost:8080/
+
 ### playground
 Contains the boilerplate code for the live demos. Get this folder ready in your preferred editor if you want to code along with the presenter. The setup will be explained during the training.
 
